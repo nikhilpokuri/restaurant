@@ -1,0 +1,59 @@
+'''
+1. Below are the weekdays and it's temparatures. Write a program to answer the following.
+- check which day has high temparature
+- check which day has less temparature
+- check which day has second high temparature
+- get the days which are having more than average temparature
+
+'''
+days = {
+     'Sunday':34,
+     'Monday':32.5,
+     'Tuesday':33,
+     'Wednesday':35,
+     'Thursday':32,
+     'Friday':35.1,
+     'Saturday':33.6
+    }
+
+
+
+'''
+2. Below are the customer ids and deposits are done by customers on a typical day of a bank. Write a program to answer the following.
+- How many distinct customers deposited the money?
+- Who deposited a maximum number of times?
+- Who deposited the maximum sum of deposits?
+- Who deposited the maximum amount in a single transaction?
+- Print all Customer Id's and list of deposits done by each customer.
+- Print total balance at the end of the day.
+
+'''
+transactions = [
+ (1237, 87522),
+ (1234, 1000),
+ (1236, 6754),
+ (1234, 200),
+ (1236, 1700),
+ (1234, 400),
+ (1234, 600),
+ (1236, 788),
+ (1234, 500),
+ (1237, 126653)
+]
+
+'''
+3. Below are the employee details of id,name,country,phone,age,salary. Write a program to answer the following.
+- print all names
+- sum all ages
+- count how many ind are in emp_data
+
+emp_data = [
+  (1, 'elena', 'newyork', 7003500, 25, 7000),
+  (2, 'stefan', 'india', 80002540, 28, 9000),
+  (3, 'damon', 'india', 90000343, 30, 8000),
+  (4, 'jeremy', 'newyork', 70003450, 25, 7000),
+  (5, 'caroline', 'china', 6004400, 25, 7000)
+]
+
+'''
+

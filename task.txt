@@ -5,7 +5,7 @@
 - check which day has second high temparature
 - get the days which are having more than average temparature
 
-'''
+''' 
 days = {
      'Sunday':34,
      'Monday':32.5,
